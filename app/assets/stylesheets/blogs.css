@@ -1,0 +1,26 @@
+h1, h2, h3, h4, h5 {
+  border-style: dotted;
+  border-width: 0px;
+  color: #fcfcfc;
+  }
+
+div {
+  border-style: solid;
+  border-width: 0px; }
+
+
+
+body {
+  background-image: url("header.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  color: #fcfcfc;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px; }
+  
+header padding {
+  padding: 60px;
+}
+
+/*# sourceMappingURL=blogs.css.map */
